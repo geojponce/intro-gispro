@@ -1,0 +1,3 @@
+variable = "xd"
+
+print(variable)
